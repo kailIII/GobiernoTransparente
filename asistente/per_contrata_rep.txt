@@ -1,0 +1,16 @@
+
+Estamento
+Apellido paterno
+Apellido materno
+Nombres
+Grado EUS
+Calificación profesional o formación
+Cargo o función
+Región
+Asignaciones especiales
+Unidad monetaria
+Remuneración bruta mensualizada
+Horas extraordinarias
+Fecha de inicio<br />(dd/mm/aaaa)
+Fecha de término<br />(dd/mm/aaaa)
+Observaciones

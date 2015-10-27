@@ -1,0 +1,10 @@
+Denominación<br />(tipologías)
+Tipo de norma
+Número
+Nombre/título
+Fecha<br />(dd/mm/aaaa)
+Fecha, medio y forma de publicación
+Tiene efectos generales
+Fecha última actualización<br />(dd/mm/aaaa), si corresponde a actos y resoluciones con efectos generales
+Breve descripción del objeto del acto
+Enlace a la publicación o archivo correspondiente

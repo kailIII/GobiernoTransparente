@@ -1,0 +1,11 @@
+Nombre del informe
+Número del informe<br/>(N°/año)
+Entidad que efectuó la auditoría
+Unidad auditada
+Materia
+Período auditado<br/>(dd/mm/aaaa - dd/mm/aaaa)
+Fecha de inicio de la auditoría<br/>(dd/mm/aaaa)
+Fecha de término de la auditoría<br/>(dd/mm/aaaa)
+Enlace al informe final de auditoría
+Fecha de publicación del informe<br/>(dd/mm/aaaa)
+Enlace al informe de aclaraciones, si correponde

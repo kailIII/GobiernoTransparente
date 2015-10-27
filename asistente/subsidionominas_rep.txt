@@ -1,0 +1,8 @@
+Nombre del programa o beneficio
+Apellido paterno del beneficiario
+Apellido materno del beneficiario
+Nombres del beneficiario
+Razón Social, si receptor es persona jurídica
+RUT, si receptor es persona jurídica
+Acto por el cual se otorgó
+Fecha de Otorgamiento<br/>(dd/mm/aaaa)

@@ -1,0 +1,18 @@
+<?php
+echo formularioMultipagina(
+  //Titulo
+  "",
+  //Msg1
+  "",
+  //Msg2
+  "",
+  //Cols
+  "",
+  //Links
+  array(),
+  //archivo
+  "",
+  //sesion
+  ""
+);
+?>

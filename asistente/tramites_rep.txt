@@ -1,0 +1,13 @@
+Nombre del trámite, servicio o beneficio
+En qué consiste
+Requisitos
+Documentos requeridos
+A quién está dirigido
+Trámites a realizar y/o etapas
+¿Dónde se realiza?
+Tiene costo
+Unidad monetaria
+Valor del servicio
+¿Este trámite está disponible en línea?
+Enlace al trámite en línea, si corresponde
+Enlace a mayor información

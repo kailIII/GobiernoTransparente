@@ -1,0 +1,7 @@
+Mes
+N° total de<br />horas diurnas
+Unidad monetaria
+Valor total de<br />horas diurnas
+N° total de<br />horas nocturnas
+Unidad monetaria
+Valor total de<br />horas nocturnas

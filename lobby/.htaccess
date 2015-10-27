@@ -1,0 +1,4 @@
+AuthName "Privado"
+AuthType Basic
+AuthUserFile /var/www/www.gobiernotransparente.cl/lobby/.htpasswd
+require user gobierno

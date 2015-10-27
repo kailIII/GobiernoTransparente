@@ -1,0 +1,719 @@
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+ * gob2.css: Estilos para hoja de transparencia.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+/* --------------------------- Estilos de texto ---------------------------- */
+h1
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	color: #0F70B7;
+	margin: 10px 0px 0px 0px;
+	padding-top: 6px;
+}
+
+h2
+{
+	font-size: 12px;
+	color: #999999;
+}
+
+h2 b
+{
+	color: #FF0000;
+	font-size: 12px;
+	padding: 2px;
+	line-height: 2px;
+}
+
+h3
+{
+	text-align: right;
+	font-size: 13px;
+	font-weight: normal;
+	margin: 0px;
+	color: #BED9EF;
+}
+
+h4
+{
+	font-size: 13px;
+	font-weight: normal;
+	line-height: 16px;
+	margin: 0px;
+	color: #0F70B7
+}
+
+
+
+
+/* --------------------------- Estilos principales ---------------------------- */
+body
+{
+	background: #DFE6EB;
+	margin: 0px;
+}
+
+.top
+{
+	width: 778px;
+	height: 80px;
+	border-right: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	background: #1C79BF url('http://www.gobiernotransparente.gob.cl/material/images/header.jpg');
+	text-align: right;
+}
+
+.contenido
+{
+	background: white;
+	border-right: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	width: 730px;
+	padding: 0px 24px 5px 24px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+.cenefa
+{
+	font-size: 11px;
+	color: #CCCCCC;
+	background: url('http://www.gobiernotransparente.gob.cl/material/images/fd-cenefa.jpg');
+	height: 25px;
+	text-align: right;
+	padding: 5px;
+}
+
+/*
+.cenefa span { margin: 1px 0px 0px 4px; float: left; color: #FF0000; font-size: 14px; font-weight: bold; }
+.cenefa span b { color: #035795; }
+*/
+
+.detalle-bottom
+{
+	clear: both;
+	text-align: right;
+	padding: 10px 10px 0px 0px ;
+	display: block;
+}
+
+.footer
+{
+	background-color: white;
+	border-right: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	width: 730px;
+	padding: 10px 24px 25px 24px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-align: left;
+	color: #035795;
+	line-height: 16px;
+	clear: both;
+}
+
+.footer a
+{
+	font-weight: bold;
+	color: #035795;
+}
+
+.footer a:hover
+{
+	text-decoration: none;
+}
+
+.footer p
+{
+	margin-right: 40px;
+}
+
+.footer .botones
+{
+	float: right;
+	margin: 0px 10px 50px 10px;
+	display: block;
+	padding-left: 0px;
+}
+
+
+
+
+
+
+
+
+/* --------------------------- Estilos alternativos ---------------------------- */
+a:hover
+{
+	text-decoration:none;
+}
+
+
+.contenido0
+{
+	background-color: white;
+	border-right: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	width: 750px;
+	padding: 0px 14px 5px 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-align: right;
+}
+
+.menu0_left
+{
+	width: 175px;
+	float: left;
+	text-align: left;
+	padding: 10px 0px 10px 0px;
+}
+
+.main0
+{
+	width:536px;
+	background: url('http://www.gobiernotransparente.gob.cl/material/images/main_fd.jpg') no-repeat 0px 33px;
+	float: right;
+	text-align: left;
+	padding: 0px 16px 10px 23px;
+}
+
+.main0 p
+{
+	margin:20px 250px 0px 20px;
+	color: #035795;
+	font-size: 13px;
+	line-height: 20px;
+}
+
+
+.main0_fin
+{
+	clear:both;
+	height:20px;
+}
+
+
+.left_top
+{
+	font-size: 12px;
+	color: #CCCCCC;
+	background: url('http://www.gobiernotransparente.gob.cl/material/images/left_top.gif');
+	display: block;
+	height: 17px;
+	padding: 7px 0px 0px 14px;
+}
+
+.left_main
+{
+	background: #BAD6EB;
+	border-right: 1px solid #7AB1D8;
+	border-left: 1px solid #7AB1D8;
+}
+
+
+.left_item
+{
+	border-left: 1px solid #AAC4D7;
+	border-right: 1px solid #AAC4D7;
+	border-bottom: 1px solid #AAC4D7;
+	background: #FFF url('http://www.gobiernotransparente.gob.cl/material/images/left_fd_menu.jpg') repeat-x;
+	margin: 0px 2px 0px 3px;
+}
+
+.left_item a
+{
+	color: #035795;
+	font-weight: bold;
+	vertical-align: middle;
+	padding: 8px 6px 8px 6px;
+	text-decoration: none;
+	line-height: 12px;
+	clear: both;
+	display: block;
+}
+
+.left_item a:hover
+{
+	color: #FF0000;
+}
+
+
+.left_subitem
+{
+	background: #FFF;
+	margin: 0px 2px 5px 3px;
+	border-right: 1px solid #AAC4D7;
+	border-left: 1px solid #AAC4D7;
+	border-bottom: 4px solid #E0EDF5;
+	padding: 4px 8px 6px 6px;
+}
+
+.left_subitem a
+{
+	color: #0F70B7;
+	background: url('http://www.gobiernotransparente.gob.cl/material/images/bullet_menu.gif') no-repeat 2px 5px;
+	padding: 1px 0px 1px 10px;
+	display: block;
+	text-decoration: none;
+}
+
+.left_subitem a:hover
+{
+	background: #f6f6f6 url('http://www.gobiernotransparente.gob.cl/material/images/bullet_menu.gif') no-repeat 2px 5px;
+}
+
+
+.left_subitem u  a
+{
+	margin-left: 10px;
+	color: #5EB4F2;
+	background: url('http://www.gobiernotransparente.gob.cl/material/images/bullet_submenu.gif') no-repeat 2px 5px;
+}
+
+.left_subitem u a:hover
+{
+	background: #f8f8f8 url('http://www.gobiernotransparente.gob.cl/material/images/bullet_submenu.gif') no-repeat 2px 5px;
+}
+
+
+.left_bottom
+{
+	background: url('http://www.gobiernotransparente.gob.cl/material/images/left_bottom.gif');
+	display: block;
+	height: 21px;
+}
+
+
+.pestanas
+{
+	height: 33px;
+	display: block;
+	margin-bottom: 16px;
+	text-align: right;
+	color: #CCC;
+}
+
+.mensaje
+{
+	background:url('http://www.gobiernotransparente.gob.cl/material/images/mensaje_fd.jpg') no-repeat;
+	height: 215px;
+}
+
+
+.col_top
+{
+	background: url('http://www.gobiernotransparente.gob.cl/material/images/colm_top.gif');
+	height: 5px;
+	line-height: 0px;
+	padding: 0px;
+	margin: 0px;
+	font-size: 1px;
+}
+
+.col_bottom
+{
+	background: url('http://www.gobiernotransparente.gob.cl/material/images/colm_bottom.gif');
+	height: 5px;
+	line-height: 0px;
+	padding: 0px;
+	margin: 0px;
+	font-size: 1px;
+}
+
+
+.col_uno
+{
+	margin-top:6px;
+	margin-left:24px;
+	width:176px;
+	float:left;
+	background:url('http://www.gobiernotransparente.gob.cl/material/images/colm_fd.gif') repeat-y;
+	text-align: left;
+}
+
+.col_uno h3
+{
+	text-align: left;
+	background: url('http://www.gobiernotransparente.gob.cl/material/images/col_fd_tit.jpg') repeat-x bottom;
+	margin: 0px 5px 0px 2px;
+	padding: 2px 2px 13px 10px;
+	font-size: 13px;
+	font-weight: bold;
+	color: #B0B0B0;
+}
+
+.col_uno p
+{
+	margin: 0px 18px 10px 14px;
+	color: #035795;
+	line-height: 16px;
+}
+
+.col_uno p img
+{
+	margin-bottom: 8px;
+	display: block;
+}
+
+.col_uno p a
+{
+	color: #5EB4F2;
+}
+
+
+.col_dos
+{
+	margin-top: 6px;
+	 margin-left: 6px;
+	width: 176px;
+	float: left;
+	background: url('http://www.gobiernotransparente.gob.cl/material/images/colm_fd.gif') repeat-y;
+	text-align: left;
+}
+
+.col_dos h3
+{
+	text-align: left;
+	background: url('http://www.gobiernotransparente.gob.cl/material/images/col_fd_tit.jpg') repeat-x bottom;
+	margin: 0px 5px 0px 2px;
+	padding: 2px 2px 13px 10px;
+	font-size: 13px;
+	font-weight: bold;
+	color: #B0B0B0;
+}
+
+.col_dos p
+{
+	margin: 0px 18px 10px 14px;
+	color: #035795;
+	line-height: 16px;
+}
+
+
+.col_tres
+{
+	margin-top: 6px;
+	 margin-left: 6px;
+	width: 176px;
+	float: left;
+	background: url('http://www.gobiernotransparente.gob.cl/material/images/colm_fd.gif') repeat-y;
+	text-align: left;
+}
+
+.col_tres h3
+{
+	text-align: center;
+	background: url('http://www.gobiernotransparente.gob.cl/material/images/col_fd_tit.jpg') repeat-x bottom;
+	margin: 0px 5px 0px 2px;
+	padding: 2px 2px 13px 2px;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FF0000;
+}
+
+.col_tres h4
+{
+	background: #FFFFCC;
+	color: #FF0000;
+	font-size: 18px;
+	margin: 0px 20px 10px 15px;
+	text-align: center;
+	padding: 1px;
+}
+
+.col_tres p
+{
+	margin: 0px 18px 10px 14px;
+	color: #035795;
+	line-height: 16px;
+}
+
+.col_tres p img
+{
+	margin-bottom: 8px;
+	display: block;
+}
+
+.col_tres p .select_uno
+{
+	border: 1px solid #7F9DB9;
+	height: 18px;
+	font-size: 10px;
+	width: 87px;
+}
+
+.col_tres p .select_dos
+{
+	border: 1px solid #7F9DB9;
+	height: 18px;
+	font-size: 10px;
+	width: 50px;
+}
+
+.col_tres a
+{
+	color: #035795;
+	text-align: center;
+	display: block;
+	margin: 0px 20px 10px 15px;
+	padding: 3px 0px 3px 0px;
+}
+
+.col_tres a: hover
+{
+	background: #f5f5f5;
+}
+
+
+.link_10az
+{
+	font-size: 10px;
+	color: #5EB4F2;
+	line-height: 12px;
+	background: url('http://www.gobiernotransparente.gob.cl/material/images/bullet_az.gif') no-repeat 0px 7px;
+	padding: 3px 0px 3px 8px;
+	display: block;
+}
+
+.link_noticia
+{
+	font-size: 11px;
+	color: #5EB4F2;
+	line-height: 12px;
+	background: url('http://www.gobiernotransparente.gob.cl/material/images/bullet_az2.gif') no-repeat 0px 15px;
+	padding: 0px 0px 11px 8px;
+	margin-bottom: 8px;
+	display: block;
+	font-weight: bold;
+	border-bottom: 1px dotted #BAD6EB;
+}
+
+.link_noticia u
+{
+	color: #035795;
+	font-size: 9px;
+	display: block;
+	text-decoration: none;
+}
+
+
+.detalle
+{
+	background: #FCFCFC;
+	border-right: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	width: 730px;
+	padding: 15px 24px 25px 24px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+.detalle .fincaja
+{
+	background: url('http://www.gobiernotransparente.gob.cl/material/images/sub_bottom.jpg');
+	height: 6px;
+	display: block;
+	padding: 0px;
+	font-size: 2px;
+	width: 230px;
+	float: left;
+}
+
+
+
+.header
+{
+	float: right;
+	color: #CCCCCC;
+	text-align: right;
+	padding-top: 6px;
+	line-height: 12px;
+}
+
+
+.subMenu
+{
+	width: 230px;
+	float: left;
+	margin: 0px 5px 10px 5px;
+}
+
+.subMenu a:hover
+{
+	text-decoration: none;
+}
+
+.subMenu a
+{
+	display: block;
+	 padding: 2px 10px 4px 20px;
+	background: #FFF;
+	border-right: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	color: #0F70B7;
+}
+
+.subMenu b
+{
+	background: url('http://www.gobiernotransparente.gob.cl/material/images/sub_tit.jpg') no-repeat;
+	display: block;
+	height: 21px;
+	padding: 8px 0px 0px 10px;
+	color: #0F70B7;
+}
+
+.subMenu b a
+{
+	background: none;
+	padding: 0px;
+	border: none;
+}
+
+.subMenu u
+{
+	background: url('http://www.gobiernotransparente.gob.cl/material/images/sub_bottom.jpg');
+	height: 6px;
+	display: block;
+	padding: 0px;
+	font-size: 2px;
+}
+
+.subMenu font
+{
+	display: block;
+	height: 20px;
+	background: #FFF;
+	background: #FFF;
+	border-right: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+}
+
+
+
+.paginador
+{
+	margin: 8px 0px 16px 0px;
+	text-align: right;
+}
+
+.paginador a
+{
+	color: #808183;
+	font-weight: bold;
+	padding: 0px 2px 2px 2px;
+}
+
+.paginador a:hover
+{
+	text-decoration: none;
+}
+
+.paginador a.active
+{
+	background: #4EA4E8;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.paginador font a
+{
+	font-weight: normal;
+	font-size: 11px;
+}
+
+
+.paginador .buscador
+{
+	display: inline;
+	float: left;
+	padding-left: 4px;
+}
+
+.paginador .buscador .input
+{
+	border: 1px solid #999999;
+	width: 160px;
+	height: 16px;
+	vertical-align: middle;
+	font-size: 11px;
+	background: url('http://www.gobiernotransparente.gob.cl/material/images/fd-input.jpg') 0px 0px;
+}
+
+.paginador .buscador .boton
+{
+	vertical-align: middle;
+	margin-left: 4px;
+}
+
+
+.tabla
+{
+	border-left: 1px solid #CCCCCC;
+	border-top: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	width: 100%;
+}
+
+.tabla th
+{
+	color: #035795;
+	 border-right: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	padding: 3px 3px 3px 3px;
+	background: #F9F9F9;
+}
+
+.tabla th b
+{
+	font-weight: normal;
+}
+
+.tabla td
+{
+	color: #035795;
+	 border-right: 1px solid #CCCCCC;
+	border-bottom: 1px solid #F4F4F4;
+	background: #FFF;
+	padding: 3px 4px 3px 4px;
+	;
+}
+
+.tabla .pesos
+{
+	text-align: right;
+}
+
+
+.btn-volver
+{
+	float: left;
+}
+
+.logoprint
+{
+	display: none;
+}
+
+
+.detalle .tope
+{
+	clear: both;
+	display: block;
+	background: #FFFF00;
+	height: 10px;
+	width: 100%;
+}
+
+
+@media print
+{
+	.logoprint { display: block; height: 66px; }
+	h2 b { margin: 0px 3px 0px 4px; }
+	.top,.cenefa,.footer,.menu { display: none; }
+	.contenido { border: none; width: 100%; padding: 0px 0px 5px 0px; }
+	.detalle { border: none; width: 100%; padding: 2px 0px 5px 0px; font-family: Arial, Helvetica, sans-serif; font-size: 11px; }
+}

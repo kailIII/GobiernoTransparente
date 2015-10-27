@@ -1,0 +1,13 @@
+Mes de la transferencia
+Fecha de la transferencia<br/>(dd/mm/aaaa)
+Utilidad o finalidad de la transferencia
+Respaldo jurídico de la transferencia
+Imputación presupuestaria
+Unidad monetaria
+Monto
+RUT, si receptor es persona jurídica
+Razón social de la persona jurídica, si corresponde
+Apellido paterno, si receptor es persona natural
+Apellido materno, si receptor es persona natural
+Nombres, si receptor es persona natural
+Región de la organización que recibe el aporte

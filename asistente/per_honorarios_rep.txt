@@ -1,0 +1,13 @@
+Apellido paterno
+Apellido materno
+Nombres
+Descripción de la función
+Calificación profesional o formación
+Grado EUS, si corresponde
+Región
+Unidad monetaria
+Honorario total bruto
+Pago mensual
+Fecha de inicio<br />(dd/mm/aaaa)
+Fecha de término<br />(dd/mm/aaaa)
+Observaciones

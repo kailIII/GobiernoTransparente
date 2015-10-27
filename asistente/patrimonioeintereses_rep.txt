@@ -1,0 +1,7 @@
+Nombres
+Apellido Paterno
+Apellido Materno
+Cargo
+Tipo de declaración
+Fecha de la declaración<br/>(dd/mm/aaaa)
+Enlace al archivo<br/>correspondiente

@@ -1,0 +1,27 @@
+ul.primer_nodo {
+	padding: 20px 20px 20px 20px;
+	list-style-type: none;
+	margin-left: 20px;
+	margin-right: 20px;
+	background: #FFF;
+}
+
+ul.menu {
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 4px;
+	padding-bottom: 0px;
+	list-style-type: none;
+	background: #FFF url(http://www.gobiernotransparente.gob.cl/material/images/org-linea.png) repeat-y;
+	margin-left: 15px;
+}
+
+ul.menu li {
+	padding: 0 12px;
+	background: url(http://www.gobiernotransparente.gob.cl/material/images/org-rama.png) no-repeat;
+}
+	
+ul.menu li.fin {
+	padding: 0 12px;        
+	background: #FFF url(http://www.gobiernotransparente.gob.cl/material/images/org-rama.png) left top no-repeat;
+}

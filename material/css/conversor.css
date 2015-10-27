@@ -1,0 +1,204 @@
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+ * conversor.css: Estilos para hoja de transparencia.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+/* --------------------------- Estilos de texto ---------------------------- */
+p
+{
+	font-size: 12px;
+	color: #999999;
+	text-align: justify;
+}
+
+h1
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	color: #0F70B7;
+	margin: 10px 0px 0px 0px;
+	padding-top: 6px;
+}
+
+h2
+{
+	text-align: right;
+	font-size: 13px;
+	font-weight: normal;
+	margin: 0px;
+	color: #BED9EF;
+}
+
+h3
+{
+	font-size: 13px;
+	font-weight: normal;
+	line-height: 16px;
+	margin: 0px;
+	color: #0F70B7
+}
+
+
+
+/* --------------------------- Estilos principales ---------------------------- */
+body
+{
+	background: #DFE6EB;
+	margin: 0px;
+}
+
+.top
+{
+	width: 778px;
+	height: 80px;
+	border-right: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	background: #1C79BF url('http://www.gobiernotransparente.gob.cl/material/images/header.jpg');
+	text-align: right;
+}
+
+
+/* ---- Titulos ---- */
+.titulos
+{
+	background: white;
+	border-right: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	width: 778px;
+	padding: 0px 0px 5px 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+.titulos .cenefa
+{
+	font-size: 11px;
+	color: #CCCCCC;
+	background: url('http://www.gobiernotransparente.gob.cl/material/images/fd-cenefa.jpg');
+	height: 25px;
+	text-align: right;
+	padding: 5px;
+}
+
+/* ---- Footer ---- */
+.footer
+{
+	background-color: white;
+	border-right: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	width: 730px;
+	padding: 10px 24px 25px 24px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-align: left;
+	color: #035795;
+	line-height: 16px;
+	clear: both;
+}
+
+.footer a
+{
+	font-weight: bold;
+	color: #035795;
+}
+
+.footer a:hover
+{
+	text-decoration: none;
+}
+
+.footer p
+{
+	margin-right: 40px;
+}
+
+.footer .botones
+{
+	float: right;
+	margin: 0px 10px 50px 10px;
+	display: block;
+	padding-left: 0px;
+}
+
+
+/* ---- Contenido ---- */
+.contenido
+{
+	background: #FCFCFC;
+	border-right: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	width: 778px;
+	padding: 15px 0px 25px 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.contenido-bottom
+{
+	clear: both;
+	text-align: right;
+	padding: 10px 10px 0px 0px ;
+	display: block;
+}
+
+.input
+{
+	border: 1px solid #999999;
+	vertical-align: middle;
+	font-size: 14px;
+	background: url(http://www.gobiernotransparente.gob.cl/material/images/fd-input.jpg) 0px 0px #f0f0f0;
+}
+
+
+/* ---- Tabla ---- */
+.tabla
+{
+	border-left: 1px solid #CCCCCC;
+	border-top: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+}
+
+.tabla th
+{
+	color: #035795;
+	border-right: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	padding: 3px 10px 3px 10px;
+	background: #F9F9F9;
+	text-align: left;
+}
+
+.tabla td
+{
+	color: #035795;
+	border-right: 1px solid #CCCCCC;
+	border-bottom: 1px solid #F4F4F4;
+	background: #FFF;
+	padding: 3px 10px 3px 10px;
+	text-align: left;
+}
+
+.tabla tr td.msg
+{
+	color: black;
+	background-color: #ff9999;
+	border: solid 1px #ff3333;
+	padding: 3px 10px 3px 10px;
+	text-align: center;
+	font-style: italic;
+}
+
+.logoprint
+{
+	display: none;
+}
+
+
+@media print
+{
+	.logoprint { display: block; height: 66px; }
+	h2 b { margin: 0px 3px 0px 4px; }
+	.top,.cenefa,.footer,.menu { display: none; }
+	.titulos { border: none; width: 100%; padding: 0px 0px 5px 0px; }
+	.contenido { border: none; width: 100%; padding: 2px 0px 5px 0px; font-family: Arial, Helvetica, sans-serif; font-size: 11px; }
+}

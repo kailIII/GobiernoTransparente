@@ -1,0 +1,7 @@
+Fecha de publicación del formulario<br />(dd/mm/aaaa)
+Organismo que dicta la norma
+Denominación, título o nombre de la propuesta normativa
+Tipo de norma
+Efectos de la norma
+Enlace al formulario
+Enlace a mayor información

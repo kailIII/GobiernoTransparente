@@ -1,0 +1,10 @@
+\.orig$
+\.orig\..*$
+\.chg\..*$
+\.rej$
+\.conflict\~$
+\.sublime-project$
+\.sublime-workspace$
+syntax: glob
+nbproject
+.idea

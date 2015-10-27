@@ -1,0 +1,7 @@
+Tipo de norma
+Número
+Nombre/título
+Se encuentra publicado en el Diario Oficial
+Fecha de publicación en el Diario Oficial o fecha de dictación<br/>(dd/mm/aaaa)
+Enlace a la publicación o archivo correspondiente
+Fecha última modificación<br/>(dd/mm/aaaa)
