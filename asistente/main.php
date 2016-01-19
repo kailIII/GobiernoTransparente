@@ -17,7 +17,7 @@ html_header("Gobierno Transparente<br/>Ley N&deg; 20.285 - sobre Acceso a la Inf
 para la realizaci&oacute;n de pruebas internas,
 sin acceso p&uacute;blico hasta el 20 de abril.<br/><br/> -->
 
-<h3><b>&Uacute;ltima actualizaci&oacute;n:</b> 28/05/2015 </h3>
+<h3><b>&Uacute;ltima actualizaci&oacute;n:</b> 19/01/2016 </h3>
 
 <br/>
 
@@ -254,9 +254,9 @@ sin acceso p&uacute;blico hasta el 20 de abril.<br/><br/> -->
             CSV: Consejos consultivos
             <?php echo isset($_SESSION['consejosconsultivos']) ? "(Ok)" : ""; ?>
         </a>
-        <a href="<?php echo $ruta; ?>url_ciudadana.php" title="Norma General">
-            URL: Norma General de Participaci&oacute;n Ciudadana
-            <?php echo (isset($_SESSION['msg_ciudadana']) || isset($_SESSION['url_ciudadana'])) ? "(Ok)" : ""; ?>
+        <a href="<?php echo $ruta; ?>norma_participacion.php" title="Norma General">
+            CSV: Norma General de Participaci&oacute;n Ciudadana
+            <?php echo (isset($_SESSION['msg_ciudadana']) || isset($_SESSION['normaparticipacion'])) ? "(Ok)" : ""; ?>
         </a>
         <a href="<?php echo $ruta; ?>url_ciudadana2.php" title="Portal Participacion Ciudadana">
             URL: Portal de Participaci&oacute;n Ciudadana

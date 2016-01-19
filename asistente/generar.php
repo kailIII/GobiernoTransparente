@@ -142,6 +142,10 @@ Verifique que se encuentren seleccionados s&oacute;lo aquellos que sean pertinen
                        name="participacion_ciudadana" <?php echo isset($_SESSION['participacion_ciudadana']) ? "checked" : ""; ?> />
             </td>
         </tr>
+        <tr>
+            <td><a href="norma_participacion.php?g">Norma Gral. de Participaci&oacute;n Ciudadana (entregar CSV, generar XHTML)</a></td>
+            <td><input type="checkbox" name="norma_participacion" <?php echo isset($_SESSION['normaparticipacion']) ? "checked" : ""; ?> /></td>
+        </tr>
 
         <tr>
             <td><a href="subsidioprogramas.php?g">Programas de Subsidios y Otros Beneficios (entregar CSV, generar
@@ -326,12 +330,6 @@ Verifique que se encuentren seleccionados s&oacute;lo aquellos que sean pertinen
             <td><a href="url_lobby.php?g">URL: Acceso a subsitio lobby (entregar URL)</a></td>
             <td><input type="checkbox" name="url_lobby" disabled
                        readonly <?php echo isset($_SESSION['url_lobby']) ? "checked" : ""; ?> /></td>
-        </tr>
-
-        <tr>
-            <td><a href="url_ciudadana.php?g">URL: Norma Gral. de Participaci&oacute;n Ciudadana (entregar URL)</a></td>
-            <td><input type="checkbox" name="url_ciudadana" disabled
-                       readonly <?php echo isset($_SESSION['url_ciudadana']) ? "checked" : ""; ?> /></td>
         </tr>
 
         <tr>

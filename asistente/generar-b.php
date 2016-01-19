@@ -225,7 +225,7 @@ if ($para_mes < 10) $para_mes = "0$para_mes";
     $arr['Mecanismos de participaci&oacute;n ciudadana'] =
         (isset($_POST['participacion_ciudadana'])) ? 'ciudadana.html' : '';
     $arr['Norma General de Participaci&oacute;n Ciudadana'] =
-        (isset($_SESSION['url_ciudadana'])) ? $_SESSION['url_ciudadana'] : "";
+        (isset($_SESSION['normaparticipacion'])) ? "norma_participacion.html" : "";
     $arr['Portal de Participaci&oacute;n Ciudadana'] =
         (isset($_SESSION['url_ciudadana2'])) ? $_SESSION['url_ciudadana2'] : "";
     menuFormulario("Participaci&oacute;n Ciudadana", $arr);

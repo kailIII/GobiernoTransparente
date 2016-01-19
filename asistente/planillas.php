@@ -174,6 +174,14 @@ usadas en el asistente.
 </tr>
 
 <tr>
+ <td>Art&iacute;culo 7-j, Instructivo N&deg; 4 Consejo para la Transparencia</td>
+ <td>Norma general de participación ciudadana</td>
+ <td><a target="_NEW" href="normaparticipacion.xls">normaparticipacion.xls</a></td>
+ <td><a target="_NEW" href="normaparticipacion.ods">normaparticipacion.ods</a></td>
+ <td><a target="_NEW" href="normaparticipacion.csv">normaparticipacion.csv</a></td>
+</tr>
+
+<tr>
  <td>Art&iacute;culo 7-l</td>
  <td>Auditor&iacute;as del ejercicio presupuestario</td>
  <td><a target="_NEW" href="auditorias.xls">auditorias.xls</a></td>

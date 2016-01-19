@@ -8,3 +8,5 @@
 syntax: glob
 nbproject
 .idea
+.DS_Store
+asistente/.DS_Store

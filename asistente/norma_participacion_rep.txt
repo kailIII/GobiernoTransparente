@@ -1,0 +1,5 @@
+Tipo de Norma
+Fecha del acto administrativo
+Nombre/Título
+Enlace al archivo correspondiente
+Fecha de última modificación, si corresponde (dd/mm/aaaa) 
